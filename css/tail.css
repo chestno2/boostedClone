@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.background {
+    background-image: url("../photos/scootes.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background2 {
+    background-image: url("../photos/skateboard.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.move {
+    position: absolute;
+    top: 40%;
+    left: 28%;
+}
+
+.container1 {
+    position: relative;
+}
+
+.move2 {
+    position: absolute;
+    top: 40%;
+    left: 28%;
+}
+
+.container2 {
+    position: relative;
+}
+
+.move3 {
+    position: absolute;
+    top: 40%;
+    left: 28%;
+}
+
+.container3 {
+    position: relative;
+}
+
+.move4 {
+    position: absolute;
+    top: 40%;
+    left: 28%;
+}
+
+.container4 {
+    position: relative;
+}
+
+.move5 {
+    position: absolute;
+    top: 40%;
+    left: 28%;
+}
+
+.container5 {
+    position: relative;
+}
+
+.hover:hover {
+    transition: transform 0.3s ease-out;
+    transform: scale(1.1);
+}
+
+.hover1:hover {
+    transition: transform 0.3s ease-out;
+    transform: scale(1.1);
+}
+
+.hover2:hover {
+    transition: transform 0.3s ease-out;
+    transform: scale(1.1);
+}
+
+.hover3:hover {
+    transition: transform 0.3s ease-out;
+    transform: scale(1.1);
+}
+
+.hover4:hover {
+    transition: transform 0.3s ease-out;
+    transform: scale(1.1);
+}
+
+.hover5:hover {
+    transition: transform 0.3s ease-out;
+    transform: scale(1.1);
+}
+
+.hover6:hover {
+    transition: transform 0.3s ease-out;
+    transform: scale(1.1);
+}
+
+.hover7:hover {
+    transition: transform 0.3s ease-out;
+    transform: scale(1.1);
+}
